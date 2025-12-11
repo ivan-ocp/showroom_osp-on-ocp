@@ -59,7 +59,7 @@ spec:
     subnets:
     - name: subnet1
       allocationRanges:
-      - end: 192.168.123.90
-        start: 192.168.123.61
-      cidr: 192.168.123.0/24
-      gateway: 192.168.123.1
+      - end: 192.168.22.250
+        start: 192.168.22.220
+      cidr: 192.168.22.0/24
+      gateway: 192.168.22.1
