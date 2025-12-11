@@ -102,8 +102,8 @@ spec:
       "master": "enp3s0",
       "ipam": {
         "type": "whereabouts",
-        "range": "192.168.123.0/24",
-        "range_start": "192.168.123.60",
-        "range_end": "192.168.123.110"
+        "range": "192.168.22.0/24",
+        "range_start": "192.168.22.220",
+        "range_end": "192.168.22.250"
         }
       }
