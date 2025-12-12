@@ -11,5 +11,5 @@ spec:
   channel: stable-v1.0
   installPlanApproval: Automatic
   name: openstack-operator
-  source: redhat-operators
-  sourceNamespace: openshift-marketplace
+  source: openstack-operator-index
+  sourceNamespace: openstack-operators
