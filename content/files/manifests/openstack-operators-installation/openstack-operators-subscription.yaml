@@ -8,7 +8,7 @@ metadata:
   annotations:
     argocd.argoproj.io/sync-wave: "2"
 spec:
-  channel: stable
+  channel: alpha
   installPlanApproval: Automatic
   name: openstack-operator
   source: openstack-operator-index
